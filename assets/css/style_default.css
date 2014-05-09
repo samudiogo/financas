@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+.topo-menu{
+	height: 50px;
+}
+.topo-geral{
+	height: 50px;
+}
+.footer{
+	height: 100px;
+	text-align: center;
+}
+.login-container
+{
+	width: 250px;
+	height: auto;
+}
